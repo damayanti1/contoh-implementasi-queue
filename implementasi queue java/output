@@ -1,0 +1,18 @@
+run:
+
+Contoh Program Queue dengan Java
+Menu: 
+1. Tambah Queue
+2. Keluarkan 1 data dari Queue
+3. Status Queue
+4. Tampilkan data dalam Queue
+5. Bersihkan Queue
+6. Keluar dari Program
+Pilihan Menu (1 - 6) >>> 2
+
+Data pertama dalam queue sudah dikeluarkan
+Status Storage: 
+Kapasitas: 10
+Terisi   : -1
+Data dalam Queue: 
+Keluar dari Program? (Y/T): 
